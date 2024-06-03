@@ -4,7 +4,7 @@ Name explains itself. This application will nuke all traces of optifine, forge a
 
 **Currently in alpha, please expect bugs and function not working properly!**
 
-**This is an unofficial third-party tool, provided with NO WARRANTY OR GUARANTEE. This utility is not associated with or endorsed by Mojang, Xbox Game Studios or any of the mod developers.**
+**This is an unofficial third-party tool, provided with NO WARRANTY OR GUARANTEE.<br>This utility is not associated with or endorsed by Mojang, Xbox Game Studios or any of the mod developers.**
 
 ## Looking for downloads? [See Releases](https://porkchop.gay/dream_face_reveal.mp4)
 
