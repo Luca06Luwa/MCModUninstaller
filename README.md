@@ -6,7 +6,7 @@ Name explains itself. This application will nuke all traces of optifine, forge a
 
 **This is an unofficial third-party tool, provided with NO WARRANTY OR GUARANTEE.<br>This utility is not associated with or endorsed by Mojang, Xbox Game Studios or any of the mod developers.**
 
-## Looking for downloads? [See Releases](https://porkchop.gay/dream_face_reveal.mp4)
+## Looking for downloads? [See Releases](https://kitten.pages.dev)
 
 ## Instructions:
 
@@ -14,7 +14,7 @@ Currently, only the latest versions of Windows 10 and Windows 11 are supported.
 
 Linux builds will be available soon™.
 
-1. [Download MCModUninstaller](https://porkchop.gay/dream_face_reveal.mp4)
+1. [Download MCModUninstaller](https://kitten.pages.dev)
 2. Extract the ZIP file somewhere memorable on your computer.
 3. Launch MCModUninstaller.exe.
 4. Select the mod you want to uninstall.
