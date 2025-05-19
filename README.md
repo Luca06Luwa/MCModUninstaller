@@ -1,6 +1,10 @@
 # MCModUninstaller
 
-Name explains itself. This application will nuke all traces of optifine, forge and/or fabric from your minecraft installation.
+Name explains itself. This application will nuke all traces of optifine, forge, fabric, and/or any third party client from your minecraft installation.
+
+Started working on this because lunar client just doesn't want to uninstall itself properly.
+
+Think of this as Display Driver Uninstaller but for minecraft mod clients.
 
 **Currently in alpha, please expect bugs and function not working properly!**
 
